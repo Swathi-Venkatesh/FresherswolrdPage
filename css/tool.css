@@ -1,0 +1,144 @@
+header{
+	padding: 5px 5px 5px 5px;
+	border: 1px solid #dde1df;
+	background-color: #f6f5f6	;
+	border-bottom-width: 2px;
+}
+body{
+	overflow-x:hidden; 
+	background-image: url('../images/bgtile.png');
+}
+.container-fluid{
+	padding:0px 2px;
+}
+.header-divider{
+	border-top: 3px solid #8e0a4f;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.noPadding{
+	padding: 0px;
+}
+.noMargin{
+	margin: 0px;
+}
+.leftPadding5{
+	padding-left:5px;
+}
+.rightPadding5{
+	padding-right:5px;
+}
+.rightPadding10{
+	padding-right:5px;
+}
+.topMargin5{
+	margin-top: 7px;
+}
+.leftMargin5{
+	margin-left: 5px;
+}
+.topPadding10{
+	padding-top: 10px;
+}
+.bottomPadding5{
+	padding-top: 10px;
+}
+.bottomMargin5{
+	margin-bottom: 10px;
+}
+.padding5{
+	padding: 5px;
+	background-color: #cccccc;
+	margin-right:2px;
+}
+.text-right{
+	text-align: right;
+}
+.text-center{
+	text-align: center;
+}
+.font-bold{
+	font-weight: bold;
+}
+.padding20{
+	padding:20px;
+}
+.margin20{
+	margin:20px;
+}
+
+.username{
+	padding-left: 10px;
+	margin-right: 20px;
+}
+.username:before{
+	content: '|';
+	padding-right: 15px;
+}
+.username .glyphicon-chevron-down{
+	font-size: 10px;
+}
+.higlighter{
+	color:#ff8d55;
+}
+.tile-bg{
+	background-color: #00274c;
+	    padding: 8px 5px;
+	    color: #fff;
+}
+.tile-icon{
+	border-right: 1px solid black;
+}
+.tile-body{
+	border:1px solid #d6d5d5;
+}
+.tile-row{
+	margin: 0px;
+}
+.tile-body li{
+	list-style: none;
+	list-style-image: url('../images/greentick.png');
+}
+.primary-btn{
+	background-color: #ff7900;
+	padding: 5px 10px;
+	border:none;
+	border-radius: 3px;
+	width: 115px;
+	color: #fff;
+}
+.sml-txt{
+	color:gray;
+}
+.row-container{
+	padding: 55px 0 0 0;
+}
+.offer{
+	background-color: #ffcb05;
+	padding: 5px;
+	margin: 0 35px;
+	margin-top: -51px;
+}
+.offer-bottom{
+		background-color: #ffcb05;
+	padding: 5px;
+	margin: 0 35px;
+}
+.red-text{
+	color: #ff0000;
+}
+.rightBorder{
+	border-right: 1px dotted gray;
+}
+.leftBorder{
+	border-left: 1px dotted gray;
+}
+.topBorder{
+	border-top: 1px dotted gray;
+}
+.bottomBorder{
+	border-bottom: 1px dotted gray;
+}
+.company-tile div{
+	height: 80px;
+}
